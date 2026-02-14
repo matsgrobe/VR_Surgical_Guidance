@@ -14,3 +14,9 @@ This project implements an Augmented Reality guidance system for a 3-point seque
 ## Note
 * **Excluded Files:** Large raw 3D meshes (>50MB) and the `Library/` folder were excluded via `.gitignore` to comply with GitHub repository standards. 
 * **Core Logic:** Found in `Assets/guidance.cs`.
+
+## Video Demonstration
+
+https://github.com/user-attachments/assets/c8f0f4b4-b373-4696-ad53-385a794c6971
+
+
